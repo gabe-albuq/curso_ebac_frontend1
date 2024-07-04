@@ -1,0 +1,6 @@
+git clone https://github.com/gabe-albuq/curso_ebac_frontend1.git
+cd curso_ebac_frontend1
+git checkout -b exercicio_git
+git add exercicio.txt
+git commit -m "Adicionando arquivo de exercício"
+git push origin exercicio_git
